@@ -31,8 +31,3 @@ The Display Module in this 8-bit computer is designed to visually represent data
 - **Separation of Digits**: Each ROM is responsible for a single digit, simplifying programming and debugging.  
 - **Stable Output**: The use of an output register ensures that the display does not flicker or show incomplete data.  
 - **Scalability**: This design allows for easy expansion to support more digits by adding additional ROMs, registers, and displays.  
-
-## Visual Representation
-Below is an example diagram of the Display Module's structure:
-
-
