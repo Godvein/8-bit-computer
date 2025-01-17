@@ -1,5 +1,5 @@
 # Clock in Computing  
- | ![Alt text](images/clock.png) |
+ | ![Alt text](../../images/clock.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of clock in logisim |
    
