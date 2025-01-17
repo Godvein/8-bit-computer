@@ -1,5 +1,5 @@
 # 8-Bit Computer Control Logic Module
- | ![Alt text](images/logisimfinal.png) |
+ | ![Alt text](../../images/logisimfinal.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of Control Logic added to circuit in Logisim |
    

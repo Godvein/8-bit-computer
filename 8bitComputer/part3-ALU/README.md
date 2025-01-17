@@ -1,5 +1,5 @@
 # Arithmetic Logic Unit (ALU) - 8-Bit Computer
- | ![Alt text](images/alu.png) |
+ | ![Alt text](../../images/alu.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of ALU added to circuit in logisim |
    

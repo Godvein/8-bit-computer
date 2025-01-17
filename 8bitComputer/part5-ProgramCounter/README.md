@@ -1,5 +1,5 @@
 # Program Counter (PC) - 8-Bit Computer
- | ![Alt text](images/programcounter.png) |
+ | ![Alt text](../../images/programcounter.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of the program counter added to circuit in logisim |
    

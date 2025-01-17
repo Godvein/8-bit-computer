@@ -1,5 +1,5 @@
 # Registers in the 8-Bit Computer  
- | ![Alt text](images/registers.png) |
+ | ![Alt text](../../images/registers.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of register added to circuit in logisim |
    

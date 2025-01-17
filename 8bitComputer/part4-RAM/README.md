@@ -1,5 +1,5 @@
 # Random Access Memory (RAM) - 8-Bit Computer
- | ![Alt text](images/ram.png) |
+ | ![Alt text](../../images/ram.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of RAM added to the circuit in logisim |
    

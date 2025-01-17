@@ -1,5 +1,5 @@
 # 8-Bit Computer Display Module
- | ![Alt text](images/display.png) |
+ | ![Alt text](../../images/display.png) |
  |:---------------------------------------:|
  | **Figure 1**: Circuit Diagram of 7-segment display added to circuit in logisim |
    
