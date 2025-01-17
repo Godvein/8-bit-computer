@@ -1,4 +1,8 @@
 # 8-Bit Computer Display Module
+ | ![Alt text](images/display.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of 7-segment display added to circuit in logisim |
+   
 
 ## Overview
 The Display Module in this 8-bit computer is designed to visually represent data processed by the system. It utilizes three ROM chips, each pre-programmed to handle a specific digit, three 7-segment displays for output, and an output register to drive the display.

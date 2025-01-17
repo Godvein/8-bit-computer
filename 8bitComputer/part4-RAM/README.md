@@ -1,4 +1,8 @@
 # Random Access Memory (RAM) - 8-Bit Computer
+ | ![Alt text](images/ram.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of RAM added to the circuit in logisim |
+   
 
 ## Overview
 The RAM in this 8-bit computer is an essential component for temporary data storage and retrieval. It is an 8-bit RAM with an 8-bit address bus, giving it a capacity of **256 bytes** (not 32 bytes). This memory serves as the primary storage for instructions and data during operation.

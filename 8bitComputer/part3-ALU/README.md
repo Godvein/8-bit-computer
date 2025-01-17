@@ -1,4 +1,8 @@
 # Arithmetic Logic Unit (ALU) - 8-Bit Computer
+ | ![Alt text](images/alu.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of ALU added to circuit in logisim |
+   
 
 ## Overview
 The ALU (Arithmetic Logic Unit) is a critical component of this 8-bit computer. It is responsible for performing arithmetic operations like addition and subtraction. The design focuses on simplicity and direct integration with the registers to ensure seamless operation.

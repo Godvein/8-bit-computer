@@ -1,4 +1,9 @@
 # Clock in Computing  
+ | ![Alt text](images/clock.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of clock in logisim |
+   
+
 
 A **clock in computing** is a fundamental component used to synchronize and coordinate the operations of a computer system. It generates a series of regular, timed electrical pulses that drive the execution of instructions, data transfer, and overall system operation.  
 

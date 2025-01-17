@@ -1,4 +1,8 @@
 # Registers in the 8-Bit Computer  
+ | ![Alt text](images/registers.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of register added to circuit in logisim |
+   
 
 This 8-bit computer design includes **three registers**:  
 

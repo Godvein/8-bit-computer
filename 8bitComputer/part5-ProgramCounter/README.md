@@ -1,4 +1,9 @@
 # Program Counter (PC) - 8-Bit Computer
+ | ![Alt text](images/programcounter.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of the program counter added to circuit in logisim |
+   
+
 
 ## Overview
 The Program Counter (PC) is a crucial component in this 8-bit computer, responsible for managing the sequential execution of instructions. It keeps track of the memory address of the next instruction to be fetched and executed, ensuring the computer follows the program flow correctly.

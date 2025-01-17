@@ -1,4 +1,8 @@
 # 8-Bit Computer Control Logic Module
+ | ![Alt text](images/logisimfinal.png) |
+ |:---------------------------------------:|
+ | **Figure 1**: Circuit Diagram of Control Logic added to circuit in Logisim |
+   
 
 ## Overview
 The Control Logic Module is the brain of the 8-bit computer, responsible for generating control signals that orchestrate the operations of various components. This module uses an EEPROM to store the control signals for each microinstruction and a microinstruction counter to keep track of the current step in the instruction cycle.
