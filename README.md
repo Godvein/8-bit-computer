@@ -1,14 +1,6 @@
 # 8-Bit Computer Project
 
 Welcome to my 8-bit computer project, a journey into the world of computer architecture using **Logisim**. This project began two years ago, inspired by the incredible insights shared by **Ben Eater**, a renowned computing YouTuber. His detailed explanations of how computers work at a fundamental level sparked my curiosity and motivated me to create my first version of this project.
-| ![Alt text](images/circuit_diagram.png) |
-|:---------------------------------------:|
-| **Figure 1**: Circuit Diagram of the 8-bit Computer in logic circuit simulator Pro |
-
-[The final design should look like this](8bitComputer/complete8bitcomputer/8bitcomputer.circ)
-| ![Alt text](images/logisimfinal.png) |
-|:---------------------------------------:|
-| **Figure 2**: Circuit Diagram of the 8-bit Computer in Logisim |
 
 Now, I am revisiting the project to improve it, document every step, and share it with the community. This time, I aim to provide a more comprehensive understanding of the design process and showcase the power of digital logic simulation tools.
 
