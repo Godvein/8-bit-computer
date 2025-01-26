@@ -5,6 +5,16 @@ Welcome to my 8-bit computer project, a journey into the world of computer archi
 Now, I am revisiting the project to improve it, document every step, and share it with the community. This time, I aim to provide a more comprehensive understanding of the design process and showcase the power of digital logic simulation tools.
 
 ---
+## Demo Video of 8 bit computer perfoming the following instruction
+
+00 load A, 1 | Machine Instruction: (0001)
+01 Add 1 | Machine Instruction: (0010)
+02 Out A | Machine Instruction: (0011)
+03 Jump 01 | Machine Instruction: (0100)
+
+https://github.com/user-attachments/assets/ddc3ebde-0dc1-40e6-a17a-c2267b754b6c
+
+
 
 ## Acknowledgments
 
